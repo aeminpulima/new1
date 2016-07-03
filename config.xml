@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.foundationship.starter"
+    version   = "1.0.0">
+
+<name>la voz de israel </name>
+
+
+<icon src="ico/3.png" gap:platform="android" gap:density="ldpi" />
+
+<gap:splash src="ico/1.png" gap:platform="android" gap:density="ldpi" /> 
+<gap:splash src="ico/2.png" gap:platform="android" gap:density="mdpi" />
+<gap:splash src="ico/3.png" gap:platform="android" gap:density="hdpi" />
+<gap:splash src="ico/4.png" gap:platform="android" gap:density="xhdpi" />
+
+<description>
+Aplicativo oficial de la voz de israel
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Your Name
+</author>
+
+</widget>
